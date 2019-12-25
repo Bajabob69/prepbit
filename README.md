@@ -16,8 +16,10 @@ prepbit is easily customizable, designed with only the simplest of codes, and wi
                                                   Revision History
                                                   ________________
                                                   
-                                1.2^ Created and updated index.html as well as main.css
-                                1.3^ Updated Readme.md
+                                1.2^ Created and updated index.html as well as main.css (AUTHOR)
+                                1.3^ Updated Readme.md (AUTHOR)
+				1.4^ Created css subfolder under assets folder, moved main.css to css subfolder, 
+				edited stylesheet linking in index.html. (AUTHOR)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  <AUTHOR> Robert "Rabbit" Eatherly
