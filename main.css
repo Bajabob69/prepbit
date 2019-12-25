@@ -1,0 +1,85 @@
+﻿/* CSS May be a little Jumbled. WIll attempt to clean after main core code is added. */
+
+/* Body Code*/
+
+body {
+  background-color: #262626 ;
+}
+
+/* Text and Fonts*/
+
+h1 {
+  text-align: center ;
+  color: silver ;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter" ;
+}
+
+p.subtext {
+	
+	text-align: center ;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 13px;
+	letter-spacing: 1.6px;
+	word-spacing: 6px;
+	color: #9B9B9B;
+	font-weight: normal;
+	text-decoration: line-through solid rgb(68, 68, 68);
+	font-style: italic;
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+/* Footer and Styles */
+
+footer {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    background-color: #333333;
+    }
+
+p.copyright {
+    position: absolute;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
+    font-family: "Courier New", Courier, monospace ;
+    }
+    
+p.t1 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -1px;
+	word-spacing: 3px;
+	color: #fff;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: none;
+}    
+    /* Header info */
+    
+.header {
+	padding: 60px;
+	text-align: center;
+	background: #262626;
+	color: white;
+	font-size: 30px;
+}
+
+/* Misc */
+
+div.cont1 {
+	webkit-column-count: 1;
+	moz-column-count: 1;
+	column-count: 1;
+	webkit-column-gap: 5px;
+	moz-column-gap: 5px;
+	column-gap: 5px;
+	webkit-column-rule: 1px solid rgba(28,110,164,0.2);
+	moz-column-rule: 1px solid rgba(28,110,164,0.2);
+	column-rule: 1px solid rgba(28,110,164,0.2);
+}
