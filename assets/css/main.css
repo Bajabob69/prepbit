@@ -1,12 +1,12 @@
-﻿/* CSS May be a little Jumbled. WIll attempt to clean after main core code is added. */
+﻿					/* CSS May be a little Jumbled. WIll attempt to clean after main core code is added. */
 
-/* Body Code*/
+	/* Body Code*/
 
 body {
   background-color: #262626 ;
 }
 
-/* Text and Fonts*/
+	/* Text and Fonts*/
 
 h1 {
   text-align: center ;
@@ -28,6 +28,21 @@ p.subtext {
 	font-variant: small-caps;
 	text-transform: lowercase;
 }
+
+p.t2 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -1px;
+	word-spacing: 3px;
+	color: white;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: none;
+		
+}
+
 /* Footer and Styles */
 
 footer {
@@ -70,7 +85,7 @@ p.t1 {
 	font-size: 30px;
 }
 
-/* Misc */
+	/* Misc */
 
 div.cont1 {
 	webkit-column-count: 1;
@@ -84,16 +99,3 @@ div.cont1 {
 	column-rule: 1px solid rgba(28,110,164,0.2);
 }
 
-p.t2 {
-	font-family: "Courier New", Courier, monospace;
-	font-size: 19px;
-	letter-spacing: -1px;
-	word-spacing: 3px;
-	color: white;
-	font-weight: normal;
-	text-decoration: none;
-	font-style: normal;
-	font-variant: small-caps;
-	text-transform: none;
-		
-}
