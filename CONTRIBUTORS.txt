@@ -1,0 +1,17 @@
+﻿########################################################################################################################
+
+#prepbit
+
+#Contributor instructions
+
+If you decide to contribute or change the code in anyway please update the readme.md file. 
+
+If you decide to contribute please create a User role in the very bottom section of the readme. The 
+user role will be used in the readme to identify the contributor who made any changes and what changes they made. 
+The user role must be all capitals and placed within <> or () and then followed either by a user id or a name. 
+The usual role does nothing more than identify the person who made the changes. 
+
+If your changes require more than a few lines please use your favorite text editor to create a .prep file in the 
+contributions folder and include your user role. 
+
+Thank you for help!
