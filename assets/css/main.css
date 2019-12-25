@@ -32,7 +32,7 @@ p.subtext {
 
 footer {
     position: relative;
-    height: 300px;
+    height: 40px;
     width: 100%;
     background-color: #333333;
     }
@@ -82,4 +82,18 @@ div.cont1 {
 	webkit-column-rule: 1px solid rgba(28,110,164,0.2);
 	moz-column-rule: 1px solid rgba(28,110,164,0.2);
 	column-rule: 1px solid rgba(28,110,164,0.2);
+}
+
+p.t2 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 19px;
+	letter-spacing: -1px;
+	word-spacing: 3px;
+	color: white;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: none;
+		
 }
