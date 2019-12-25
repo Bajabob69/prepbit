@@ -22,5 +22,7 @@ prepbit is easily customizable, designed with only the simplest of codes, and wi
 				edited stylesheet linking in index.html. (AUTHOR)
 				1.5^ Added new folder struture and added Visual Studio Code x64 (AUTHOR)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-						<p>User Roles</p>
+						..........
+	                                       .User Roles.
+						..........
  <AUTHOR> Robert "Rabbit" Eatherly
