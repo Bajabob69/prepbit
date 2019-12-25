@@ -20,6 +20,7 @@ prepbit is easily customizable, designed with only the simplest of codes, and wi
                                 1.3^ Updated Readme.md (AUTHOR)
 				1.4^ Created css subfolder under assets folder, moved main.css to css subfolder, 
 				edited stylesheet linking in index.html. (AUTHOR)
+				1.5^ Added new folder struture and added Visual Studio Code x64 (AUTHOR)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+						<p>User Roles</p>
  <AUTHOR> Robert "Rabbit" Eatherly
