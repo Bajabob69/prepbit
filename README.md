@@ -1,7 +1,7 @@
 # prepbit
 
 
-Still a work in progress.
+## Still a work in progress.
 
 prepbit is a solution package to the worlwide question of "What happens to the internet when the world ends?" The answer is simple. The nerds take over.
 
@@ -13,26 +13,28 @@ NOTE It may seem that I don't know how to type or write correctly but the name p
 
                             This section is for revision history, changes, update info or contributor
                             comments. Description must stay above the Hashtag line. 
-                                                 ..................
-                                                 .Revision History.
-                                                 .................. 
+                                                 
+                                                   Revision History
+                                                
                                               
                             1.2^ Created and updated index.html as well as main.css (AUTHOR)
                             1.3^ Updated Readme.md (AUTHOR)
-			1.4^ Created css subfolder under assets folder, moved main.css to css subfolder, 
-			edited stylesheet linking in index.html. (AUTHOR)
-			1.5^ Added new folder struture and added Visual Studio Code x64 (AUTHOR)
-			1.6^ See Revision16.prep for information. 
-			1.7^ Added PDF Ebooks to Assets/Files/ebooks/PDFs
-					              ............
-	                                              .User Roles.
-					              ............
-_Author_ **Robert "Rabbit" Eatherly**
+			    1.4^ Created css subfolder under assets folder, moved main.css to css subfolder, 
+			    edited stylesheet linking in index.html. (AUTHOR)
+			    1.5^ Added new folder struture and added Visual Studio Code x64 (AUTHOR)
+			    1.6^ See Revision16.prep for information. 
+			    1.7^ Added PDF Ebooks to Assets/Files/ebooks/PDFs
+	      ##########################################################################################
+	      
+	      
+	     
 
-___________________________________________________________________________________________________________________________
-                                                **.................
-					          .Future Features.
-                                                  .................**
+	                                                User Roles                                                        
+   _Author_ | **Robert _"Rabbit"_ Eatherly**                                                                              
+
+                                                  
+					              Future Features
+                                                  
 
 * Survival Documents. **Progress [>>>>>>>>>...............] 38%**
 * Various Programs for setting up servers. **Progress [>>>.....................] 9%**
