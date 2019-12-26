@@ -13,9 +13,9 @@ NOTE It may seem that I don't know how to type or write correctly but the name p
 
                             This section is for revision history, changes, update info or contributor
                             comments. Description must stay above the Hashtag line. 
-                                              ..................
-                                              .Revision History.
-                                              ..................
+                                                 ..................
+                                                 .Revision History.
+                                                 .................. 
                                               
                             1.2^ Created and updated index.html as well as main.css (AUTHOR)
                             1.3^ Updated Readme.md (AUTHOR)
@@ -30,16 +30,16 @@ NOTE It may seem that I don't know how to type or write correctly but the name p
 _Author_ **Robert "Rabbit" Eatherly**
 
 ___________________________________________________________________________________________________________________________
-                                                .................
-					        .Future Features.
-                                                .................
+                                                **.................
+					          .Future Features.
+                                                  .................**
 
-* Survival Documents. **Progress [>>>>>>>>>               ] 38%**
-* Various Programs for setting up servers. **Progress [>>>                     ] 9%**
-* Tutorials for setting servers and creating an IOT from scratch. **Progress [                           ] 0%**
-* Adding a page for each downloadable category instead of allowing Indexing. **Progress [                           ] 0%**
-* Abiity to create json databases for headless server applications. **Progress [                           ] 0%**
-* CoffeScript ability to better create serverless video,audio, and image hosting. **Progress [                        ] 0%**
-* P2P or Headless Auth system for signing up and logging in. **Progress [                           ] 0%**
-* P2P or Headless Social Networking. **Progress [                           ] 0%**
-* Information about Mesh Networking and how to create one. **Progress [                           ] 0%**
+* Survival Documents. **Progress [>>>>>>>>>...............] 38%**
+* Various Programs for setting up servers. **Progress [>>>.....................] 9%**
+* Tutorials for setting servers and creating an IOT from scratch. **Progress [....................] 0%**
+* Adding a page for each downloadable category instead of allowing Indexing. **Progress [.......................] 0%**
+* Abiity to create json databases for headless server applications. **Progress [............................] 0%**
+* CoffeScript ability to better create serverless video,audio, and image hosting. **Progress [.......................] 0%**
+* P2P or Headless Auth system for signing up and logging in. **Progress [.......................] 0%**
+* P2P or Headless Social Networking. **Progress [.......................] 0%**
+* Information about Mesh Networking and how to create one. **Progress [.......................] 0%**
