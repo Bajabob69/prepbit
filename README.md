@@ -22,6 +22,7 @@ prepbit is easily customizable, designed with only the simplest of codes, and wi
 				edited stylesheet linking in index.html. (AUTHOR)
 				1.5^ Added new folder struture and added Visual Studio Code x64 (AUTHOR)
 				1.6^ See Revision16.prep for information. 
+				1.7^ Added PDF Ebooks to Assets/Files/ebooks/PDFSs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 						..........
 	                                       .User Roles.
