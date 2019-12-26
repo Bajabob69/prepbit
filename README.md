@@ -34,7 +34,7 @@ ________________________________________________________________________________
 					      .Future Features.
                                               .................
 
-(1) Survival Documents. **Progress [>>>>>>>>>               ] 38%**
+(1) Survival Documents. **_Progress [>>>>>>>>>               ] 38%_**
 (2) Various Programs for setting up servers. **Progress [>>>                     ] 9%**
 (3) Tutorials for setting servers and creating an IOT from scratch. **Progress [                           ] 0%**
 (4) Adding a page for each downloadable category instead of allowing Indexing. **Progress [                           ] 0%**
