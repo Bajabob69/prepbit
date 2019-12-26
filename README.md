@@ -34,12 +34,12 @@ ________________________________________________________________________________
 					      .Future Features.
                                               .................
 
-(1) Survival Documents. Progress [>>>>>>>>>               ] 38%
-(2) Various Programs for setting up servers. Progress [>>>                     ] 9%
-(3) Tutorials for setting servers and creating an IOT from scratch. Progress [                           ] 0%
-(4) Adding a page for each downloadable category instead of allowing Indexing. Progress [                           ] 0%
-(5) Abiity to create json databases for headless server applications. Progress [                           ] 0%
-(6) CoffeScript ability to better create serverless video,audio, and image hosting. Progress [                        ] 0% 
-(7) P2P or Headless Auth system for signing up and logging in. Progress [                           ] 0%
-(8) P2P or Headless Social Networking. Progress [                           ] 0%
-(9) Information about Mesh Networking and how to create one. Progress [                           ] 0%
+(1) Survival Documents. **Progress [>>>>>>>>>               ] 38%**
+(2) Various Programs for setting up servers. **Progress [>>>                     ] 9%**
+(3) Tutorials for setting servers and creating an IOT from scratch. **Progress [                           ] 0%**
+(4) Adding a page for each downloadable category instead of allowing Indexing. **Progress [                           ] 0%**
+(5) Abiity to create json databases for headless server applications. **Progress [                           ] 0%**
+(6) CoffeScript ability to better create serverless video,audio, and image hosting. **Progress [                        ] 0%**
+(7) P2P or Headless Auth system for signing up and logging in. **Progress [                           ] 0%**
+(8) P2P or Headless Social Networking. **Progress [                           ] 0%**
+(9) Information about Mesh Networking and how to create one. **Progress [                           ] 0%**
