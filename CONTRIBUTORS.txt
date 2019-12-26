@@ -15,3 +15,5 @@
 #contributions folder and include your user role. 
 
 #Thank you for help!
+
+#This is only for contributors. If you wish to use the available resources i have compiled or the code please use the #Template option and pull everything into your own repo. Thank you!
