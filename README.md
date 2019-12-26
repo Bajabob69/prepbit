@@ -25,17 +25,26 @@ NOTE It may seem that I don't know how to type or write correctly but the name p
 			    1.6^ See Revision16.prep for information. 
 			    1.7^ Added PDF Ebooks to Assets/Files/ebooks/PDFs
 	      ##########################################################################################
-	      
+________________________________________________________________________________________________________________________________________	      
 	      
 	     
 
-	                                                User Roles                                                        
-   _Author_ | **Robert _"Rabbit"_ Eatherly**                                                                              
+	                                                                                                       
+                                                     Role     | User/ID/Name
+                                                 ------------ | -------------
+                                                   Author     | Reatherly
+                                                              |                                                                              
 
                                                   
-					              Future Features
+					              
+						      
+						      
+						      
+						      
+						      
+						      
                                                   
-
+_Future Features_
 * Survival Documents. **Progress [>>>>>>>>>...............] 38%**
 * Various Programs for setting up servers. **Progress [>>>.....................] 9%**
 * Tutorials for setting servers and creating an IOT from scratch. **Progress [....................] 0%**
